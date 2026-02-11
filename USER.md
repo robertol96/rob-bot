@@ -4,7 +4,7 @@
 - **What to call them:** Robbie, bro
 - **Telegram:** @zipsah (id: 584354405)
 - **GitHub:** robertol96
-- **Timezone:** TBD
+- **Timezone:** Australia/Brisbane (AEST, UTC+10)
 - **Notes:** Had a previous bot setup that got lost due to instance reconnection issues. Set up GitHub backup (robertol96/rob-bot) specifically so we don't lose each other again.
 
 ## Context
